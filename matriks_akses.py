@@ -5,5 +5,8 @@ matriks = [
     [16,17,18,19,20],
     [21,22,23,24,25]
     ] # triks mengambik nilai pada matrik pastikan baris keberapa dan index ke berpa.???
-print(matriks[3][3])
-print(matriks[4][2])
+# print(matriks[3][3])
+# print(matriks[4][2])
+i = 9 
+if i<10:    
+    print(i) 
